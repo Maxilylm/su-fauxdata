@@ -2,7 +2,7 @@
 
 Generate realistic mock data instantly, right in your browser. No signup, no uploads, no backend.
 
-**Live:** https://90mockdata.vercel.app
+**Live:** https://su-fauxdata.vercel.app
 
 ## Features
 
@@ -26,4 +26,4 @@ npm run dev
 
 ---
 
-Part of [The Slop Machine](https://00slopmachine.vercel.app) — a continuous startup idea factory.
+Part of [The Slop Machine](https://su-slopmachine.vercel.app) — a continuous startup idea factory.

@@ -267,8 +267,8 @@ export default function App() {
       </main>
 
       <footer>
-        Part of <a href="https://00slopmachine.vercel.app" target="_blank" rel="noreferrer">The Slop Machine</a> ·
-        More dev tools: <a href="https://67envdiff.vercel.app" target="_blank" rel="noreferrer">EnvDiff</a> · <a href="https://11jsonformatter.vercel.app" target="_blank" rel="noreferrer">JSON Formatter</a> · <a href="https://71dataconverter.vercel.app" target="_blank" rel="noreferrer">DataMorph</a>
+        Part of <a href="https://su-slopmachine.vercel.app" target="_blank" rel="noreferrer">The Slop Machine</a> ·
+        More dev tools: <a href="https://su-envdiff.vercel.app" target="_blank" rel="noreferrer">EnvDiff</a> · <a href="https://su-jsonformat.vercel.app" target="_blank" rel="noreferrer">JSON Formatter</a> · <a href="https://su-datamorph.vercel.app" target="_blank" rel="noreferrer">DataMorph</a>
       </footer>
     </div>
   )
