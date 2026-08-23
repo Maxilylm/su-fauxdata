@@ -2,7 +2,7 @@
 
 > Define a schema visually and generate realistic fake rows as JSON, CSV, or SQL.
 
-**[Live demo](https://su-fauxdata.vercel.app)**
+**[Live demo](https://fauxdata-mlx.vercel.app)**
 
 Seeding a database or filling a UI mockup usually means writing a throwaway script or pasting the same three placeholder names everywhere. FauxData lets you name your fields, pick a type for each, and generate up to 1000 rows. Values within a row are correlated — the generated email and username are derived from that row's first and last name, so the data holds up when it lands in a table. Everything runs in the browser; nothing is uploaded.
 
@@ -30,4 +30,4 @@ npm run dev
 
 ---
 
-Part of a series of 91 small web apps. [Browse them all](https://su-slopmachine.vercel.app).
+Part of a series of 91 small web apps. [Browse them all](https://lorenzoylosada.vercel.app).
